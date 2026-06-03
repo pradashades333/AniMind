@@ -10,3 +10,4 @@
 - [2026-06-24 14:33:15+02:00] noted character state follow-up.
 - [2026-06-27 13:08:20+02:00] captured render pass check.
 - [2026-06-30 18:43:25+02:00] reviewed scene loading notes.
+- [2026-06-03 14:16:30+02:00] checked project loading notes.
