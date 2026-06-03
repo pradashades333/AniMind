@@ -1,2 +1,2 @@
+- [2026-06-03 14:11:27] Capture the next small cleanup around project loading notes.
 - [2026-06-19 13:22:35] Review the next pass for scene data loading and cache behavior.
-
