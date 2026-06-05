@@ -11,3 +11,4 @@
 - [2026-06-27 13:08:20+02:00] captured render pass check.
 - [2026-06-30 18:43:25+02:00] reviewed scene loading notes.
 - [2026-06-03 14:16:30+02:00] checked project loading notes.
+- [2026-06-05 17:01:55+02:00] captured render state follow-up.
