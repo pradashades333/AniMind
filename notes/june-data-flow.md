@@ -1,2 +1,3 @@
 - [2026-06-03 16:18:30+02:00] tracked cache cleanup idea.
 - [2026-06-05 11:53:35+02:00] noted character state follow-up.
+- [2026-06-08 13:28:40+02:00] captured render pass check.
