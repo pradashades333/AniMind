@@ -15,3 +15,4 @@
 - [2026-06-09 11:46:20+02:00] captured render state follow-up.
 - [2026-06-09 15:31:45+02:00] captured render state follow-up.
 - [2026-06-11 14:16:10+02:00] noted character flow cleanup.
+- [2026-06-14 17:01:35+02:00] checked project loading notes.
