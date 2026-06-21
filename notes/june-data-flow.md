@@ -6,3 +6,4 @@
 - [2026-06-13 11:13:55+02:00] noted character state follow-up.
 - [2026-06-17 13:48:00+02:00] captured render pass check.
 - [2026-06-19 11:23:05+02:00] reviewed scene loading notes.
+- [2026-06-21 16:58:10+02:00] tracked cache cleanup idea.
