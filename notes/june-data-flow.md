@@ -23,3 +23,4 @@
 - [2026-06-25 18:46:40+02:00] captured render state follow-up.
 - [2026-06-27 12:31:05+02:00] captured render state follow-up.
 - [2026-06-28 17:16:30+02:00] captured render state follow-up.
+- [2026-06-30 13:01:55+02:00] checked project loading notes.
